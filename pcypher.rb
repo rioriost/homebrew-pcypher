@@ -3,8 +3,8 @@ class Pcypher < Formula
 
   desc "Pcypher is a Python library to parse Cypher queries."
   homepage "https://github.com/rioriost/homebrew-pcypher/"
-  url "https://files.pythonhosted.org/packages/47/24/f5578804ef253b18a1006c68e7c4ba9638ee7ee72cef2e035700cdb29add/phorganize-0.1.2.tar.gz"
-  sha256 "3465bbb140e146ebc98a0bea004def2611f3abf84251a9465cc1388d7b624e76"
+  url "https://files.pythonhosted.org/packages/cc/43/4058181d544347a73bd89ee79d9993c97e7a55190fc09c8424471652a188/pcypher-0.1.0.tar.gz"
+  sha256 "97c4c418e70931eea5e93a2287b5beb0c55ff88ba2f2c4baaa3118d89c217659"
   license "MIT"
 
   depends_on "python@3.9"
