@@ -1,12 +1,12 @@
 # pcypher
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+
 ## Obsoleted
 
 Integrated into [AGEFreighter](https://github.com/rioriost/agefreighter).
 pypher is no longer maintained.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
 ## Overview
 
